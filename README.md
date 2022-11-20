@@ -1,12 +1,12 @@
 ###  
 <div>
-    <h1>
+    <h1 align="center">
     I'm a web developer from Russia 🇷🇺 studying and living in China 🇨🇳
     </h1>
 </div>
 
 <div>
-    <h3>
+    <h3 align="center">
         Currently I'm focused on web3 development, full-stack development and smart contracts. I'm available for hire.
     <h3>
 </div>
