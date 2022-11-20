@@ -1,6 +1,16 @@
-![Header](https://github.com/21Horza/21Horza/blob/master/assets/7ced32d6cfb80d49545444c0a382de3b.jpeg)
+###  
+<div>
+    <h1>
+    I'm a web developer from Russia 🇷🇺 studying and living in China 🇨🇳
+    </h1>
+</div>
 
-### I'm a Web Developer
+<div>
+    <h3>
+        Currently I'm focused on web3 development, full-stack development and smart contracts. I'm available for hire.
+    <h3>
+</div>
+
 
 ### Languages and Tools
 ![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C&logoColor=6296CC) ![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=Rust&logoColor=CE412B) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=e9d54d) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=007acc) ![Nest JS](https://img.shields.io/badge/-Nest_JS-000?style=for-the-badge&logo=NestJS&logoColor=c8334d) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
