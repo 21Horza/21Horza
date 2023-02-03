@@ -19,6 +19,7 @@
 
 ![Mongo_DB](https://img.shields.io/badge/-Mongo_DB-000?style=for-the-badge&logo=Mongodb) ![PosgresQL](https://img.shields.io/badge/-PostgresQL-000?style=for-the-badge&logo=Postgresql) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mySQL)
 
+![Webpack](https://img.shields.io/badge/-Webpack-000?style=for-the-badge&logo=webpack)
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat-square&logo=Telegram&)](https://t.me/horza_21) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/ilia-shuianov-0a492b1a4/) [![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat-square&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/21Horza)
